@@ -1,3 +1,7 @@
+---
+exclude_from_nav: true
+---
+
 ## Bricz Cruz
 
 #### number | email | linkedin | github
